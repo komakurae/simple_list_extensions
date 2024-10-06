@@ -26,8 +26,6 @@ jobs:
       # Step 2: Set up Flutter
       - name: Set up Flutter
         uses: subosito/flutter-action@v2.16.0
-        with:
-          flutter-version: 'stable'
 
       # Step 3: Install dependencies
       - name: Install dependencies
