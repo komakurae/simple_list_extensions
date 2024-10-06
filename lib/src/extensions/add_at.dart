@@ -13,7 +13,7 @@ extension AddAtExtension<T> on List<T> {
       this[i] = this[i - 1];
     }
 
-    // Insert the new element at the correct index
+    // Insert new element at the correct index
     this[index] = newValue;
   }
 }
