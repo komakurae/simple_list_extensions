@@ -5,7 +5,7 @@ extension AddAtExtension<T> on List<T> {
           index, this, 'index', 'Index out of range', length);
     }
 
-    // Add a dummy element at the end to increase the length
+    // Add an element at the end to increase the length
     add(newValue);
 
     // Shift elements to the right
