@@ -1,7 +1,7 @@
 name: simple_list_extensions
 description: Contains some useful list methods.
-version: 1.2.0
-repository: https://github.com/komakurae/simple_list_extensions
+version: 1.2.1
+repository:
 
 environment:
   sdk: ^3.4.1
